@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\YunZhe.Wong\Software\lidar\Livox-SDK\build\x64\Debug\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\YunZhe.Wong\Software\lidar\Livox-SDK\build\sample_cc\hub\Debug\hub_sample_cc.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\YunZhe.Wong\Software\lidar\Livox-SDK\build\sample\lidar\Debug\lidar_sample.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\YunZhe.Wong\Software\lidar\Livox-SDK\build\sample_cc\lidar\Debug\lidar_sample_cc.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\YunZhe.Wong\Software\lidar\Livox-SDK\build\sample_cc\lidar_utc_sync\Debug\lidar_utc_sync.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\YunZhe.Wong\Software\lidar\Livox-SDK\build\sample_cc\trouble_shooting\Debug\trouble_shooting.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\YunZhe.Wong\Software\lidar\Livox-SDK\build\x64\Debug\ALL_BUILD</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

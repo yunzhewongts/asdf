@@ -1,0 +1,10 @@
+^C:\USERS\YUNZHE.WONG\SOFTWARE\LIDAR\LIVOX-SDK\SAMPLE_CC\HUB\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/YunZhe.Wong/Software/lidar/Livox-SDK -BC:/Users/YunZhe.Wong/Software/lidar/Livox-SDK/build --check-stamp-file C:/Users/YunZhe.Wong/Software/lidar/Livox-SDK/build/sample_cc/hub/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

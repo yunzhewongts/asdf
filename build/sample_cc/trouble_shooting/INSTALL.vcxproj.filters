@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\YunZhe.Wong\Software\lidar\Livox-SDK\build\CMakeFiles\50bd445652a407fe02678c2ae3304748\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{066B410F-C29F-3E40-9E81-1349827950A0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

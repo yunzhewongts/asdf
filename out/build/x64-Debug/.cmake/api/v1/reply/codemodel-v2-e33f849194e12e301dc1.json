@@ -1,0 +1,278 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "sdk_core",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-sdk_core-Debug-30de868e61b08c82d5fd.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "sdk_core",
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"build" : "sample/hub",
+					"jsonFile" : "directory-sample.hub-Debug-0a7b4daf67dfdd09f80b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "sample/hub",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "sample/lidar",
+					"jsonFile" : "directory-sample.lidar-Debug-c1a007e280fa6d508107.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "sample/lidar",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "sample/hub_lvx_file",
+					"jsonFile" : "directory-sample.hub_lvx_file-Debug-7aaa57e4ac6a7e99ca02.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "sample/hub_lvx_file",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "sample/lidar_lvx_file",
+					"jsonFile" : "directory-sample.lidar_lvx_file-Debug-7983c611a98ca0a7ee3f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "sample/lidar_lvx_file",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "sample_cc/hub",
+					"jsonFile" : "directory-sample_cc.hub-Debug-dccbbc0b584ff600416f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "sample_cc/hub",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "sample_cc/lidar",
+					"jsonFile" : "directory-sample_cc.lidar-Debug-5c49ae9a25dec1e6d261.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "sample_cc/lidar",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "sample_cc/trouble_shooting",
+					"jsonFile" : "directory-sample_cc.trouble_shooting-Debug-836667087149909dbf05.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "sample_cc/trouble_shooting",
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"build" : "sample_cc/lidar_utc_sync",
+					"jsonFile" : "directory-sample_cc.lidar_utc_sync-Debug-11ceb08aa7f2fc372cc4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "sample_cc/lidar_utc_sync",
+					"targetIndexes" : 
+					[
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					],
+					"name" : "livox_sdk",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 4,
+					"id" : "hub_lvx_sample::@6a2d3d53d21e715fbd90",
+					"jsonFile" : "target-hub_lvx_sample-Debug-a9f529b4b83978d46d8f.json",
+					"name" : "hub_lvx_sample",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "hub_sample::@6a6f9e8b5b2fd8d6ac9c",
+					"jsonFile" : "target-hub_sample-Debug-8de14c6a9dd47fecaa11.json",
+					"name" : "hub_sample",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "hub_sample_cc::@e9815a2c9b63b1574fe6",
+					"jsonFile" : "target-hub_sample_cc-Debug-ffad196383260a3eb7f7.json",
+					"name" : "hub_sample_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "lidar_lvx_sample::@696b8f1896f5100c0784",
+					"jsonFile" : "target-lidar_lvx_sample-Debug-6eef668745f435692db6.json",
+					"name" : "lidar_lvx_sample",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "lidar_sample::@59015f51b15bc333c370",
+					"jsonFile" : "target-lidar_sample-Debug-e7027816722c12e260e6.json",
+					"name" : "lidar_sample",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "lidar_sample_cc::@c0ba37b4212b19059db9",
+					"jsonFile" : "target-lidar_sample_cc-Debug-2faf69338f77bc4d9153.json",
+					"name" : "lidar_sample_cc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "lidar_utc_sync::@c6d1107796f82b966067",
+					"jsonFile" : "target-lidar_utc_sync-Debug-37d3199a0c67bc7baae1.json",
+					"name" : "lidar_utc_sync",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "livox_sdk_static::@bae76f41bc05054a2095",
+					"jsonFile" : "target-livox_sdk_static-Debug-2ca2125bd700ce67060f.json",
+					"name" : "livox_sdk_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "trouble_shooting::@8b7471f73664718edc1f",
+					"jsonFile" : "target-trouble_shooting-Debug-24c625976ebd3d3abbff.json",
+					"name" : "trouble_shooting",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/YunZhe.Wong/Software/lidar/Livox-SDK/out/build/x64-Debug",
+		"source" : "C:/Users/YunZhe.Wong/Software/lidar/Livox-SDK"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

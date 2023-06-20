@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\YunZhe.Wong\Software\lidar\Livox-SDK\build\CMakeFiles\7a4f6284d101579a53e7f3a8388e0d06\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\YunZhe.Wong\Software\lidar\Livox-SDK\sample\hub\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\sample\hub</Filter>
+    </None>
+    <None Include="C:\Users\YunZhe.Wong\Software\lidar\Livox-SDK\sample\hub_lvx_file\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\sample\hub_lvx_file</Filter>
+    </None>
+    <None Include="C:\Users\YunZhe.Wong\Software\lidar\Livox-SDK\sample\lidar\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\sample\lidar</Filter>
+    </None>
+    <None Include="C:\Users\YunZhe.Wong\Software\lidar\Livox-SDK\sample\lidar_lvx_file\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\sample\lidar_lvx_file</Filter>
+    </None>
+    <None Include="C:\Users\YunZhe.Wong\Software\lidar\Livox-SDK\sample_cc\hub\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\sample_cc\hub</Filter>
+    </None>
+    <None Include="C:\Users\YunZhe.Wong\Software\lidar\Livox-SDK\sample_cc\lidar\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\sample_cc\lidar</Filter>
+    </None>
+    <None Include="C:\Users\YunZhe.Wong\Software\lidar\Livox-SDK\sample_cc\lidar_utc_sync\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\sample_cc\lidar_utc_sync</Filter>
+    </None>
+    <None Include="C:\Users\YunZhe.Wong\Software\lidar\Livox-SDK\sample_cc\trouble_shooting\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\sample_cc\trouble_shooting</Filter>
+    </None>
+    <None Include="C:\Users\YunZhe.Wong\Software\lidar\Livox-SDK\sdk_core\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\sdk_core</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{066B410F-C29F-3E40-9E81-1349827950A0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\sample\hub">
+      <UniqueIdentifier>{965614B2-9AE0-38B5-927F-9C65CC48A5B6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\sample\hub_lvx_file">
+      <UniqueIdentifier>{2C70DD03-C6CC-3651-B2D6-CE3D387E418D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\sample\lidar">
+      <UniqueIdentifier>{D08CBF9F-44C6-3F61-B38E-BBEED27FAAA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\sample\lidar_lvx_file">
+      <UniqueIdentifier>{6C106B39-5B98-3D5E-A7AA-7E826C1E7E0D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\sample_cc\hub">
+      <UniqueIdentifier>{590BC9CD-5EAB-3A29-BF74-CEDA783C79D8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\sample_cc\lidar">
+      <UniqueIdentifier>{711C436F-1447-3A75-816A-96DCB7B28419}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\sample_cc\lidar_utc_sync">
+      <UniqueIdentifier>{53200ED1-3540-3DF5-973B-08BB4E99F7F6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\sample_cc\trouble_shooting">
+      <UniqueIdentifier>{9A661CF7-6274-3011-8D0E-E03EB3AB4EF8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\sdk_core">
+      <UniqueIdentifier>{226F3772-55A3-3BF1-88FA-5A86F7233C21}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

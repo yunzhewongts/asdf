@@ -150,7 +150,7 @@ void LdsLidar::GetLidarDataCb(uint8_t handle, LivoxEthPacket *data,
     lidar_this->data_recveive_count_[handle] ++;
     if (lidar_this->data_recveive_count_[handle] % 100 == 0) {
       printf("receive packet count %d %d\n", handle, lidar_this->data_recveive_count_[handle]);
-
+      printf("%d\n", data->data_type);
       /** Parsing the timestamp and the point cloud data. */
       uint64_t cur_timestamp = *((uint64_t *)(data->timestamp));
       if(data ->data_type == kCartesian) {
